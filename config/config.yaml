@@ -7,7 +7,7 @@
 ## Or, you can configure OPENAI_PROXY to access official OPENAI_API_BASE.
 OPENAI_API_BASE: "https://api.openai.com/v1"
 #OPENAI_PROXY: "http://127.0.0.1:8118"
-OPENAI_API_KEY: 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
+OPENAI_API_KEY: sk-
 OPENAI_API_MODEL: "gpt-4"
 MAX_TOKENS: 1500
 RPM: 10
@@ -29,12 +29,12 @@ RPM: 10
 #SEARCH_ENGINE: serpapi
 
 ## Visit https://serpapi.com/ to get key.
-SERPAPI_API_KEY: b9feaa1715a4af01475eca0dab23ead68c39e3b9ff81faa57b069e7dddd96fe4
+SERPAPI_API_KEY:
 
 ## Visit https://console.cloud.google.com/apis/credentials to get key.
-GOOGLE_API_KEY: AIzaSyCnq_eXO0S_FEdVNpSbbaOTK3ssDvLSpb4
+GOOGLE_API_KEY:
 ## Visit https://programmablesearchengine.google.com/controlpanel/create to get id.
-GOOGLE_CSE_ID: c37b3cdc757c24544
+GOOGLE_CSE_ID:
 
 ## Visit https://serper.dev/ to get key.
 #SERPER_API_KEY: "YOUR_API_KEY"
